@@ -1,8 +1,10 @@
 # Ray Tracer (WIP)
 
-![image](https://github.com/TylerJTimothy/rayTracer/assets/62077017/e3cf8622-02bd-4788-aaeb-93e7ee2ae1a2)
-![image](https://github.com/TylerJTimothy/rayTracer/assets/62077017/8365974e-45f6-4e02-b33b-37026a241567)
-![image](https://github.com/TylerJTimothy/rayTracer/assets/62077017/5776a95c-a5d0-4b10-b447-2058a143b9f3)
+![scene5](https://github.com/user-attachments/assets/229c4cf0-89d5-4af6-a7af-d99c4c248ed6)
+![scene3](https://github.com/user-attachments/assets/836796e8-8e04-4769-a8f1-df907da39afe)
+![myscene](https://github.com/user-attachments/assets/f7bc9a5e-57f1-4122-aacd-dac3888383cf)
+
+![scene4](https://github.com/user-attachments/assets/4224928a-a724-425b-957c-640afd862c02)
 
 ## To do
 - Add shader
